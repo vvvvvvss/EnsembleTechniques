@@ -39,5 +39,5 @@ Combine predictions using a weighted average of models.
 ## Conclusion
 
 **Bagging** involves fitting _many decision trees_ on different samples of the _same dataset_ and averaging the predictions.  
-*8Stacking** involves fitting _many different models_ types on the _same data_ and using another model to learn how to best combine the predictions.  
+**Stacking** involves fitting _many different models_ types on the _same data_ and using another model to learn how to best combine the predictions.  
 **Boosting** involves adding _ensemble members_ sequentially that _correct the predictions_ made by prior models and outputs a weighted average of the predictions.  
