@@ -35,3 +35,9 @@ Bias training data toward those examples that are hard to predict.
 Iteratively add ensemble members to correct predictions of prior models.  
 Combine predictions using a weighted average of models.  
 ![image](https://github.com/user-attachments/assets/bc6d1495-c37e-4e4d-92ca-79b53642a84b)
+
+## Conclusion
+
+Bagging involves fitting many decision trees on different samples of the same dataset and averaging the predictions.
+Stacking involves fitting many different models types on the same data and using another model to learn how to best combine the predictions.
+Boosting involves adding ensemble members sequentially that correct the predictions made by prior models and outputs a weighted average of the predictions.
