@@ -22,3 +22,16 @@ For example, instead of a single level-1 model, we might have 3 or 5 level-1 mod
 Unchanged training dataset.   
 Different machine learning algorithms for each ensemble member.  
 Machine learning model to learn how to best combine predictions.  
+![image](https://github.com/user-attachments/assets/d9b3c7ce-4c7d-4beb-891d-713ae6a87147)
+
+## Boosting Ensemble Learning
+Boosting is an ensemble method that seeks to change the training data to focus attention on examples that previous fit models on the training dataset have gotten wrong.
+This typically involves the use of very simple decision trees that only make a single or a few decisions, referred to in boosting as weak learners. 
+The predictions of the weak learners are combined using simple voting or averaging, although the contributions are weighed proportional to their performance or capability. 
+The objective is to develop a so-called “strong-learner” from many purpose-built “weak-learners.”
+### The key elements of boosting as follows:
+
+Bias training data toward those examples that are hard to predict.   
+Iteratively add ensemble members to correct predictions of prior models.  
+Combine predictions using a weighted average of models.  
+![image](https://github.com/user-attachments/assets/bc6d1495-c37e-4e4d-92ca-79b53642a84b)
