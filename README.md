@@ -10,3 +10,4 @@ The predictions made by the ensemble members are then combined using simple stat
 Bootstrap samples of the training dataset.  
 Unpruned decision trees fit on each sample.  
 Simple voting or averaging of predictions.  
+![image](https://github.com/user-attachments/assets/10dfd5b4-30b9-4ed0-ac4e-e0849ac087ec)
