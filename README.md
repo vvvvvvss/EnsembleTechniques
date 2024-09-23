@@ -1,5 +1,6 @@
 # Ensemble Techniques
 Ensemble methods is a machine learning technique that combines several base models in order to produce one optimal predictive model.
+It can be used for classification and regression.
 Ensemble learning refers to algorithms that combine the predictions from two or more models.
 The three main classes of ensemble learning methods are bagging, stacking, and boosting.
 
