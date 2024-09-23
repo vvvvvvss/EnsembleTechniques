@@ -36,7 +36,9 @@ The objective is to develop a so-called “strong-learner” from many purpose-b
 Bias training data toward those examples that are hard to predict.   
 Iteratively add ensemble members to correct predictions of prior models.  
 Combine predictions using a weighted average of models.  
-![image](https://github.com/user-attachments/assets/bc6d1495-c37e-4e4d-92ca-79b53642a84b)
+![image](https://github.com/user-attachments/assets/bc6d1495-c37e-4e4d-92ca-79b53642a84b)  
+![image](https://github.com/user-attachments/assets/57e4e9b4-7703-45e8-bfda-b5cd8ad21071)
+
 
 ## Conclusion
 
